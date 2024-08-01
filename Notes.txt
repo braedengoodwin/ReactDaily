@@ -1,0 +1,27 @@
+Notes for this project:
+
+What do you want to create?
+ - I want to create a website that allows me to 'login'? Idk if I need to set up logins but 
+   I want a site that I can go to and get a random react interview question everyday, whether it's a 
+   coding problem or more behaviorial. 
+
+Features:
+ - site loads a random react question, either code or behavioral 
+ - Have a link to the youtube video or site i got the question from
+ - have the ability to load another question if you choose
+ 
+
+ Maybes: 
+ - maybe a 'hints' button
+ - maybe a 'give' button
+
+
+
+
+Nices to haves
+ - a code editor, either CodeMirror or Monaco, i think codemirror more 
+    - https://www.dhiwise.com/post/monaco-editor-a-comprehensive-guide-for-react-developers
+    - https://www.dhiwise.com/post/enhance-your-development-workflow-with-react-codemirror
+ - sign in Feature
+ - keep track of how many days you've answered the questions
+ - keep track of how many answers you've gotten right
